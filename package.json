@@ -1,0 +1,12 @@
+{
+  "name": "nodejs_express",
+  "version": "1.0.0",
+  "description": "What is NodeJS :      js Engine -> v8 (chrome)     node -> v8 + cpp embaded (execute js outside of the browser)     can create webserver      runtime env for js    runs single-threaded, non-blocking, asynchronous programming,",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./Basic/CreateServer",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
